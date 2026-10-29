@@ -1,0 +1,6 @@
+{
+  "name": "CyberLink Control AI",
+  "description": "Plataforma de administración remota autorizada, ciberseguridad familiar y control parental con estética hacker futurista.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
